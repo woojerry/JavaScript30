@@ -1,6 +1,7 @@
 # 02 JS + CSS Clock
 
 <hr>
+
 ## 새로 알게된 것
  
 - ```transform-origin```은 CSS transform 속성과 함께 사용되는 속성으로서, 회전 **중심**(원점·기준점)을 지정
